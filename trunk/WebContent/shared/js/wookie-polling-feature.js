@@ -1,1 +1,0 @@
-dwr.engine.setActiveReverseAjax(true);
